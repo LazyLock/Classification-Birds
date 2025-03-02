@@ -1,5 +1,6 @@
 #### train batch example
-![Image](https://github.com/user-attachments/assets/22fcf54e-5a21-44c9-b0ff-f714e5dc0b0f)
+<img src="https://github.com/user-attachments/assets/22fcf54e-5a21-44c9-b0ff-f714e5dc0b0f" 
+width="200" height="400"/>
 
 #### finetuning f1-score
 ![Image](https://github.com/user-attachments/assets/662c5a9e-b27e-435d-8af1-9ed17374f51c)
